@@ -170,7 +170,7 @@ export default function HomePage() {
           />
                     <SkillGroup
             title="Infrastructure & IoT"
-            skills={["LoRaWAN", "MikroTik", "Docker", "VMware", "Hyper-V", "Linux Based Servers", "XCP-NG"]}
+            skills={["LoRaWAN", "MikroTik", "Docker", "VMware", "Hyper-V", "Linux Based Servers", "XCP-NG", "Windows Server","GNS3"]}
           />
         </div>
       </section>
