@@ -96,7 +96,7 @@ export default function HomePage() {
           {/* availability badge */}
           <div className="inline-flex items-center gap-2 px-3 py-1.5 border border-emerald-800 bg-emerald-950/30 rounded-sm mb-8">
             <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="text-xs font-mono text-emerald-400">Available for freelance work</span>
+            <span className="text-xs font-mono text-emerald-400">Continuously Curious with All Things Tech</span>
           </div>
 
           <h1 className="text-5xl sm:text-6xl font-bold text-zinc-100 leading-tight tracking-tight mb-2">
