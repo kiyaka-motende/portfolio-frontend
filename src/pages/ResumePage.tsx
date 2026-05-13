@@ -145,7 +145,7 @@ export default function ResumePage() {
         {/* Download button */}
         <div className="mt-6">
           <a
-            href="/Harold_K_Motende-CV.pdf"
+            href="https://api.kiyaka-motende.dev/media/Harold_K_Motende-CV.pdf"
             download
             className="inline-flex items-center gap-2 px-5 py-2 border border-zinc-700 hover:border-emerald-600 text-zinc-300 hover:text-emerald-400 text-xs font-mono rounded-sm transition-colors duration-200"
           >
