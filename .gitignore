@@ -42,3 +42,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 *.log
+
+# Generated PDF resumes
+public/*.pdf

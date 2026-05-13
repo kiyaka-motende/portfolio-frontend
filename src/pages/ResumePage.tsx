@@ -120,8 +120,10 @@ export default function ResumePage() {
 
         {/* Contact row */}
         <div className="flex flex-wrap gap-4 text-xs font-mono text-zinc-500">
-          <a href="mailto:redacted@email.com" className="hover:text-emerald-400 transition-colors">
-            redacted@email.com
+          <a href="https://www.linkedin.com/in/haroldgetenga-742352101" target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-emerald-400 transition-colors">
+            LinkedIn
           </a>
           <span>·</span>
           <span>Nairobi, Kenya</span>
