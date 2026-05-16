@@ -8,6 +8,11 @@ import BlogPostPage from "./pages/BlogPostPage";
 import ResumePage from "./pages/ResumePage";
 import ContactPage from "./pages/ContactPage";
 
+function AdminRedirect() {
+  window.location.href = "https://api.kiyaka-motende.dev/admin/";
+  return null;
+}
+
 export default function App() {
   return (
     <BrowserRouter>
@@ -20,6 +25,7 @@ export default function App() {
           <Route path="blog/:slug" element={<BlogPostPage />} />
           <Route path="resume" element={<ResumePage />} />
           <Route path="contact" element={<ContactPage />} />
+          <Route path="/admin" element={<AdminRedirect />} />
         </Route>
       </Routes>
     </BrowserRouter>
