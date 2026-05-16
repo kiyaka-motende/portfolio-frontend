@@ -139,8 +139,7 @@ export default function ProjectsPage() {
         </p>
         <h1 className="text-3xl font-bold text-zinc-100 mb-3">Projects</h1>
         <p className="text-zinc-500 text-sm max-w-xl">
-          A selection of systems, data applications, and web projects built
-          across conservation, utilities, and enterprise environments.
+          A selection of projects I have worked on...
         </p>
       </div>
 
