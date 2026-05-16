@@ -6,7 +6,7 @@ export default function Layout() {
       <nav className="border-b border-zinc-800 px-6 py-4">
         <div className="max-w-5xl mx-auto flex items-center justify-between">
           <NavLink to="/" className="font-semibold text-zinc-100 hover:text-emerald-400 transition-colors">
-            kiyaka-motende
+            KIYAKA-MOTENDE
           </NavLink>
           <div className="flex items-center gap-6 text-sm text-zinc-400">
             <NavLink to="/projects" className={({ isActive }) => isActive ? "text-emerald-400" : "hover:text-zinc-100 transition-colors"}>
